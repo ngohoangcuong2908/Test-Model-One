@@ -1,0 +1,187 @@
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\DrawingNumberingTool.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\DrawingNumberingTool.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\DrawingNumberingTool.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\DrawingNumberingTool.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\DrawingNumberingTool.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\DrawingNumberingTool.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\DrawingNumberingTool.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\DrawingNumberingTool.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\AtadDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210428)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210502)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210503)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210504)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+E:\###MY TEKLA\++API\###Project from home\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210505)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210523)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\ATADDrawingTools.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Dialog.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csprojAssemblyReference.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210606)\AtadDrawingTools\AtadDrawingTools\obj\Debug\ATADDrawingTools.pdb

@@ -1,0 +1,10 @@
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\DrawingNumberingTool\bin\Debug\DrawingNumberingTool.exe.config
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\DrawingNumberingTool\bin\Debug\DrawingNumberingTool.exe
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\DrawingNumberingTool\bin\Debug\DrawingNumberingTool.pdb
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.csprojAssemblyReference.cache
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.frm_Main.resources
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.Properties.Resources.resources
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.csproj.GenerateResource.cache
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.csproj.CoreCompileInputs.cache
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.exe
+D:\01. Work\01. Tuan\Khoa hoc Tekla Open API Atad 2020\DrawingNumberingTool\ObjDir\2017\DrawingNumberingTool\DrawingNumberingTool.pdb

@@ -1,0 +1,139 @@
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\AtadDrawingTools\bin\Debug\DrawingNumberingTool.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\AtadDrawingTools\bin\Debug\DrawingNumberingTool.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\AtadDrawingTools\bin\Debug\DrawingNumberingTool.pdb
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\DrawingNumberingTool.exe.config
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\DrawingNumberingTool.frm_Main.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\DrawingNumberingTool.Properties.Resources.resources
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\AtadDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\AtadDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\AtadDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\DrawingNumberingTool.exe
+D:\MY ATAD\+API\#API ATAD\ATAD API SOURCE CODE\#ATAD SOURCE CODE\[MyProject] DRAWING TOOL - BAI 4 - CODE (EDDITED from 20210426)\AtadDrawingTools\ObjDir\2017\AtadDrawingTools\DrawingNumberingTool.pdb
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe.config
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.pdb
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe.config
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.Properties.Resources.resources
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.pdb
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.pdb
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csprojAssemblyReference.cache
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.Properties.Resources.resources
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.pdb
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe.config
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.pdb
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.AssemblyReference.cache
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe.config
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.Properties.Resources.resources
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe
+C:\Users\ngoho\Desktop\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.pdb
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe.config
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.exe
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\CN.App.DrawingTools.pdb
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+E:\AtadDrawingTools - Dim Tool Only\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.AssemblyReference.cache
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe.config
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.Properties.Resources.resources
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.exe
+E:\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\CN.App.DrawingTools.pdb
+D:\MY ATAD\+API\#[MyProject] Application\AtadDrawingTools - Dim Tool Only\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.AssemblyReference.cache
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.AssemblyReference.cache
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.exe.config
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.Properties.Resources.resources
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.exe.config
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.exe
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.pdb
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.exe
+D:\MY ATAD\+API\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.pdb
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.exe
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.pdb
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csprojAssemblyReference.cache
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.exe.config
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.Properties.Resources.resources
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.exe
+E:\###MY TEKLA\++API\###Project from home\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.pdb
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.exe.config
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.exe
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\CN.App.DrawingMiniTools.pdb
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.dll
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.dll
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.dll
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Newtonsoft.Json.xml
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Drawing.xml
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\AtadDrawingTools\bin\Debug\Tekla.Structures.Model.xml
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.AssemblyReference.cache
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.exe.config
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.frm_Main.resources
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.Properties.Resources.resources
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.GenerateResource.cache
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CoreCompileInputs.cache
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\ATADDrawingTools.csproj.CopyComplete
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.exe
+D:\MY ATAD\+API\#[MyProject] Application (ATAD)\#[MyProject] Application\CN.App.DrawingMiniTools\ObjDir\2017\ATADDrawingTools\CN.App.DrawingMiniTools.pdb
